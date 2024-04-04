@@ -4,6 +4,11 @@ npx qiita new (ファイル名 without .md)
 
 npx qiita publish (ファイル名 without .md)
 
+npx qiita preview
+
+
+# `の出し方
+shift + @
 
 # 記事の設定 
 
